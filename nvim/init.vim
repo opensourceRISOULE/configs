@@ -36,7 +36,6 @@ call plug#end()
 
 "NERDTree settings
 nnoremap <A-f> :NERDTreeFocus<CR>
-nnoremap <A-n> :NERDTree<CR>
 nnoremap <A-t> :NERDTreeToggle<CR>
 nnoremap <A-l> :call CocActionAsync('jumpDefinition')<CR>
 nmap <F8> :TagbarToggle<CR>
@@ -86,10 +85,10 @@ let g:tex_flavor='latex'
 let g:vimtex_quickfix_mode=0
 
 "Snippets
-let g:UltiSnipsExpandTrigger = '<tab>'
-let g:UltiSnipsJumpForwardTrigger = '<tab>'
-let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
-let g:UltiSnipsSnippetDirectories=["UltiSnips", "$HOME/Personal/my_snippets"]
+let g:UltiSnipsExpandTrigger = '<f12>'
+let g:UltiSnipsJumpForwardTrigger = '<f12>'
+let g:UltiSnipsJumpBackwardTrigger = '<s-f12>'
+let g:UltiSnipsSnippetDirectories=["UltiSnips", "my_snippets"]
 
 "Lua 
 
