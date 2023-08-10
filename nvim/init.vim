@@ -89,6 +89,7 @@ let g:vimtex_quickfix_mode=0
 let g:UltiSnipsExpandTrigger = '<tab>'
 let g:UltiSnipsJumpForwardTrigger = '<tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
+let g:UltiSnipsSnippetDirectories=["UltiSnips", "$HOME/Personal/my_snippets"]
 
 "Lua 
 
