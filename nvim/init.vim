@@ -28,6 +28,7 @@ Plug 'mhinz/vim-startify' "Dashboard starter
 Plug 'gko/vim-coloresque' "Colorizer
 Plug 'nvim-treesitter/nvim-treesitter' "Treesitter
 Plug 'lervag/vimtex' "Vimtex
+Plug 'sirver/ultisnips' "Snippets
 
 set encoding=UTF-8
 
@@ -78,11 +79,16 @@ nnoremap <C-q> :BufferClose<CR>
 inoremap <silent><expr> <CR> coc#pum#visible() ? coc#pum#confirm()
                               \: "\<C-g>u\<CR>\<c-r>=coc#on_enter()\<CR>"
 
-" VIMTEX
+"VIMTEX
 let g:vimtex_view_method = 'zathura'
 let maplocalleader = ","
 let g:tex_flavor='latex'
 let g:vimtex_quickfix_mode=0
+
+"Snippets
+let g:UltiSnipsExpandTrigger = '<tab>'
+let g:UltiSnipsJumpForwardTrigger = '<tab>'
+let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 
 "Lua 
 
