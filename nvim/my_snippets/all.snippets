@@ -1,9 +1,13 @@
 snippet sign "Signature"
 With appreciation,
 
-Le Ngoc Giao
+Le Ngoc Giao.
 endsnippet
 
 snippet date
-${2:${1:`date +%d`}.`date +%m`}.`date +%Y`
+${2:${1:`date +%d`}/`date +%m`}/`date +%Y` @ `date +%H`:`date +%M`
+endsnippet
+
+snippet date_jp
+${2:${1:`date +%Y`}/`date +%m`}/`date +%d` at `date +%H`:`date +%M`
 endsnippet
