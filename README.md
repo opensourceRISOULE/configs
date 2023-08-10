@@ -15,3 +15,4 @@ REQUIRED PACKAGES:
     +kitty
     +starship.rs
     +zsh
+    +lsdeluxe
