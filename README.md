@@ -1,13 +1,17 @@
- ____  ___ ____   ___  _   _ _     _____ 
-|  _ \|_ _/ ___| / _ \| | | | |   | ____|
-| |_) || |\___ \| | | | | | | |   |  _|  
-|  _ < | | ___) | |_| | |_| | |___| |___ 
-|_| \_\___|____/ \___/ \___/|_____|_____|
-                                         
-  ____ ___  _   _ _____ ___ ____ ____  
- / ___/ _ \| \ | |  ___|_ _/ ___/ ___| 
-| |  | | | |  \| | |_   | | |  _\___ \ 
-| |__| |_| | |\  |  _|  | | |_| |___) |
- \____\___/|_| \_|_|   |___\____|____/ 
+config files for UNIX*
 
- config files for UNIX*
+
+REQUIRED PACKAGES:
+    +Nerd fonts
+    +gruvbox
+    +neovim (check the config for plugs)
+    +i3:
+        -i3lock
+        -scrot
+    +rofi:
+        -rofi-power-menu
+    +polybar
+    +zathura
+    +kitty
+    +starship.rs
+    +zsh
