@@ -1,8 +1,8 @@
-#CONFIG FILES FOR MY *UNIX SYSTEM.
+# CONFIG FILES FOR MY *UNIX SYSTEM.
 
 ![desktop screenshot](./Photos/2023-08-19-21:12:58.png)
 
-##SOME EXTRA PACKAGES USED:
+## SOME EXTRA PACKAGES USED:
 
 1. [Nerdfonts](https://github.com/ryanoasis/nerd-fonts)
 2. [gruvbox color palette](https://github.com/morhetz/gruvbox)
