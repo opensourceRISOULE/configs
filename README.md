@@ -2,6 +2,11 @@
 
 ![desktop screenshot](./Photos/2023-08-19-21:12:58.png)
 
+> SYSTEM INFORMATION:
+1. OS: ArchLinux [(BTW)](https://archlinux.org/).
+2. Laptop: [ThinkPad X270](https://tinyurl.com/sinkpadx270).
+3. Runs on tea and human effort.
+
 ## SOME EXTRA PACKAGES USED:
 
 1. [Nerdfonts](https://github.com/ryanoasis/nerd-fonts)
@@ -16,3 +21,5 @@
 10. [zsh](https://www.zsh.org/) and [lsdeluxe](https://github.com/lsd-rs/lsd)
 
 **Thank you to all the creators and contributors of these projects for making this happen!**
+
+![surprise69](./Photos/supris69-400.png)
