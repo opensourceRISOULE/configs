@@ -1,10 +1,10 @@
 # CONFIG FILES FOR MY *UNIX SYSTEM.
 
-![desktop screenshot](./Photos/2023-08-19-21:12:58.png)
+![Desktop screenshot](./Photos/2023-08-19-21:12:58.png)
 
 > SYSTEM INFORMATION:
-1. OS: ArchLinux [(BTW)](https://archlinux.org/).
-2. Laptop: [ThinkPad X270](https://tinyurl.com/sinkpadx270).
+1. OS: Arch Linux [(BTW)](https://archlinux.org/).
+2. Laptop: [ThinkPad X270](https://www.lenovo.com/lt/lt/laptops/thinkpad/x-series/ThinkPad-X270/p/22TP2TX2700?orgRef=https%253A%252F%252Fwww.google.com%252F).
 3. Runs on tea and human effort.
 
 ## SOME EXTRA PACKAGES USED:
