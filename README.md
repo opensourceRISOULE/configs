@@ -1,4 +1,4 @@
-# CONFIG FILES FOR MY [*LINUX](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy) SYSTEM.
+# [CONFIG FILES](https://en.wikipedia.org/wiki/Configuration_file#Unix_and_Unix-like_operating_systems) FOR MY [*LINUX](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy) SYSTEM.
 
 ![Desktop screenshot](./Photos/2023-08-19-21:12:58.png)
 
