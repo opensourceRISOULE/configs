@@ -7,6 +7,8 @@
 2. Laptop: [ThinkPad X270](https://www.lenovo.com/lt/lt/laptops/thinkpad/x-series/ThinkPad-X270/p/22TP2TX2700?orgRef=https%253A%252F%252Fwww.google.com%252F).
 3. Runs on tea and human effort.
 
+![Ohtani swings](./Photos/2023-08-19-22:00:38.png)
+
 ## SOME EXTRA PACKAGES USED:
 
 1. [Nerdfonts](https://github.com/ryanoasis/nerd-fonts)
