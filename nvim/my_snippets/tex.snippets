@@ -12,13 +12,14 @@ def env(name):
 endglobal
 
 snippet initialize "Basic template" b
-\documentclass[a4paper]{article}
+\documentclass[12pt, a4paper]{article}
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{textcomp}
 \usepackage{amsmath, amssymb}
-
+\usepackage{circuitikz}
+\usepackage{svg}
 
 % figure support
 \usepackage{import}
@@ -33,7 +34,11 @@ snippet initialize "Basic template" b
 
 \pdfsuppresswarningpagegroup=1
 
+\title{}
+\author{Le Ngoc Giao.}
+\date{ date }
 \begin{document}
+	\maketitle
 	$0
 \end{document}
 endsnippet
