@@ -19,20 +19,6 @@ snippet initialize "Basic template" b
 \usepackage{textcomp}
 \usepackage{amsmath, amssymb}
 \usepackage{circuitikz}
-\usepackage{svg}
-
-% figure support
-\usepackage{import}
-\usepackage{xifthen}
-\pdfminorversion=7
-\usepackage{pdfpages}
-\usepackage{transparent}
-\newcommand{\incfig}[1]{%
-	\def\svgwidth{\columnwidth}
-	\import{./figures/}{#1.pdf_tex}
-}
-
-\pdfsuppresswarningpagegroup=1
 
 \title{}
 \author{Le Ngoc Giao.}
@@ -40,5 +26,7 @@ snippet initialize "Basic template" b
 \begin{document}
 	\maketitle
 	$0
+
 \end{document}
 endsnippet
+
