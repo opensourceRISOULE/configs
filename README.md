@@ -22,6 +22,7 @@
 9. [starship.rs](https://github.com/starship/starship)
 10. [zsh](https://www.zsh.org/) and [lsdeluxe](https://github.com/lsd-rs/lsd)
 
-**Thank you to all the creators and contributors of these projects for making this happen!**
+**Thank you to all of the creators and contributors of these projects**
+2023/08/24 @ 17:58 README.md version. Future updates to be determined.
 
 ![surprise69](./Photos/supris69-400.png)
