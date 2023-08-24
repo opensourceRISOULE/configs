@@ -19,14 +19,23 @@ snippet initialize "Basic template" b
 \usepackage{textcomp}
 \usepackage{amsmath, amssymb}
 \usepackage{circuitikz}
+\usepackage{graphicx}
 
 \title{}
 \author{Le Ngoc Giao.}
 \date{ date }
 \begin{document}
-	\maketitle
-	$0
+\maketitle
+
+$0
 
 \end{document}
+endsnippet
+
+snippet figure "For figures"
+\begin{figure}[h!]
+	\includegraphics[width=\linewidth]{$0}
+	\caption
+\end{figure}
 endsnippet
 
