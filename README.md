@@ -23,6 +23,6 @@
 10. [zsh](https://www.zsh.org/) and [lsdeluxe](https://github.com/lsd-rs/lsd)
 
 **Thank you to all of the creators and contributors of these projects**
-2023/08/24 @ 17:58 README.md version. Future updates to be determined.
+##2023/08/24 @ 17:58 README.md version. Future updates to be determined.
 
 ![surprise69](./Photos/supris69-400.png)
