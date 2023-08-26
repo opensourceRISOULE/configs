@@ -28,7 +28,7 @@ Plug 'gko/vim-coloresque' "Colorizer
 Plug 'nvim-treesitter/nvim-treesitter' "Treesitter
 Plug 'lervag/vimtex' "Vimtex
 Plug 'sirver/ultisnips' "Snippets
-Plug 'echasnovski/mini.nvim' "Starter mini starter hahahahahaha
+Plug 'mhinz/vim-startify' "hahahaha starter hahaha
 
 set encoding=UTF-8
 
