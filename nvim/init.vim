@@ -24,11 +24,11 @@ Plug 'morhetz/gruvbox' "Gruvvy boxxy
 Plug 'lewis6991/gitsigns.nvim' " OPTIONAL: for git status
 Plug 'nvim-tree/nvim-web-devicons' " OPTIONAL: for file icons
 Plug 'romgrk/barbar.nvim' "Title bar
-Plug 'mhinz/vim-startify' "Dashboard starter
 Plug 'gko/vim-coloresque' "Colorizer
 Plug 'nvim-treesitter/nvim-treesitter' "Treesitter
 Plug 'lervag/vimtex' "Vimtex
 Plug 'sirver/ultisnips' "Snippets
+Plug 'echasnovski/mini.nvim' "Starter mini starter hahahahahaha
 
 set encoding=UTF-8
 
