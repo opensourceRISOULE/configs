@@ -59,7 +59,7 @@ bindsym $mod+Return exec kitty
 bindsym $mod+w exec firefox
 
 # lock the damn screen
-bindsym $mod+l exec i3lock -i $HOME/Pictures/Screenshots/2023-08-06-17:11:58.png
+bindsym $mod+l exec i3lock -i $HOME/Pictures/RetroPC.png
 # kill focused window
 bindsym $mod+q kill
 
@@ -134,18 +134,18 @@ bindsym $mod+a focus parent
 #set $ws5 "5"
 
 # switch to workspace
-bindsym $mod+1 workspace 翔
-bindsym $mod+2 workspace 平
-bindsym $mod+3 workspace 和
-bindsym $mod+4 workspace 牧
-bindsym $mod+5 workspace 宗
+bindsym $mod+1 workspace 1:α
+bindsym $mod+2 workspace 2:β
+bindsym $mod+3 workspace 3:γ
+bindsym $mod+4 workspace 4:δ
+bindsym $mod+5 workspace 5:ε
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace 翔
-bindsym $mod+Shift+2 move container to workspace 平
-bindsym $mod+Shift+3 move container to workspace 和
-bindsym $mod+Shift+4 move container to workspace 牧
-bindsym $mod+Shift+5 move container to workspace 宗
+bindsym $mod+Shift+1 move container to workspace 1:α
+bindsym $mod+Shift+2 move container to workspace 2:β
+bindsym $mod+Shift+3 move container to workspace 3:γ
+bindsym $mod+Shift+4 move container to workspace 4:δ
+bindsym $mod+Shift+5 move container to workspace 5:ε
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -196,8 +196,8 @@ default_floating_border pixel 1
 client.focused     #000000  #1d2021  #ebdbb2  #d79921    #d79921
 
 #P O L Y B A R 
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id $HOME/.config/polybar/multibar.sh
 bindsym $mod+Shift+p exec --no-startup-id "killall -q polybar"
 
-##nitrogen for wallppr
-exec --no-startup-id "nitrogen --restore"
+##feh for wallppr
+exec --no-startup-id "feh --bg-scale $HOME/Pictures/Chains.png --bg-scale $HOME/Pictures/Chains.png"
